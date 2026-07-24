@@ -1,0 +1,17 @@
+# Maven / Spring Boot
+target/
+git rm -r --cached backend/target
+# Node / React
+node_modules/
+frontend/node_modules/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
